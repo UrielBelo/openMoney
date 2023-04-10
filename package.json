@@ -1,0 +1,23 @@
+{
+  "name": "openmoney",
+  "version": "1.0.0",
+  "description": "Software para controle de Finanças Pessoais",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UrielBelo/openMoney.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UrielBelo/openMoney/issues"
+  },
+  "homepage": "https://github.com/UrielBelo/openMoney#readme",
+  "devDependencies": {
+    "electron": "^24.0.0"
+  }
+}
